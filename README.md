@@ -14,12 +14,11 @@ This webapp enables you to search any github user by their username and then che
 * Vanilla Js
 
 ### Features
-* User can Signup and Login, login credentials will be stored in Localstorage.
-* User can increase/decrease the quantity of clothes to be washed, iron or dry clean.
-* Total amount will be displayed on the cart.
-* User can logout and login again, his/her previous orders(not yet ordered) will be reserved on the Localstorage.
+* User can search for any Github user by their username.
+* User can view their basic info such as bio, followers, following etc.
+* User can check out their personal blog and repositories.
 
 ### Sample Image
 
  <p align="center"> <strong> Desktop View</strong></p>
- ![Preview](./images/final-design.png)
+ <img src="./images/final-design.png">
